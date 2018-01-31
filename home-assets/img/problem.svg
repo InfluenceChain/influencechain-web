@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="666px" height="455px" viewBox="0 0 666 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-138.000000, -1436.000000)">
+            <g id="Group-2" transform="translate(138.000000, 1436.000000)">
+                <g id="market-copy-5" transform="translate(0.000000, 95.000000)" fill="#FFC000">
+                    <path d="M190,95 C190,147.467272 147.467272,190 95,190 C42.5327276,190 0,147.467272 0,95 C0,42.5327276 42.5327276,0 95,0 C147.467272,0 190,42.5327276 190,95" id="Fill-1" fill-opacity="0.2"></path>
+                    <path d="M159.155844,95 C159.155844,130.432766 130.431987,159.155844 95,159.155844 C59.5680129,159.155844 30.8441558,130.432766 30.8441558,95 C30.8441558,59.5680129 59.5680129,30.8441558 95,30.8441558 C130.431987,30.8441558 159.155844,59.5680129 159.155844,95" id="Fill-4"></path>
+                </g>
+                <g id="Page-1-Copy-4" transform="translate(95.000000, 254.000000) rotate(-270.000000) translate(-95.000000, -254.000000) translate(35.000000, 249.000000)">
+                    <path d="M31,5 L32,5" id="Stroke-1" stroke="#EB2567"></path>
+                    <path d="M0.370083092,5 L113.725975,5" id="Stroke-3" stroke="#FFC000" stroke-dasharray="1.984,2.977"></path>
+                    <path d="M115,5 L116,5" id="Stroke-4" stroke="#EB2567"></path>
+                    <polygon id="Fill-5" fill="#FFC000" points="114 0 114 10 120 5.00050135"></polygon>
+                </g>
+                <g id="Page-1-Copy-5" transform="translate(355.000000, 159.000000) rotate(-270.000000) translate(-355.000000, -159.000000) translate(295.000000, 154.000000)">
+                    <path d="M31,5 L32,5" id="Stroke-1" stroke="#EB2567"></path>
+                    <path d="M0.370083092,5 L113.725975,5" id="Stroke-3" stroke="#EB2567" stroke-dasharray="1.984,2.977"></path>
+                    <path d="M115,5 L116,5" id="Stroke-4" stroke="#EB2567"></path>
+                    <polygon id="Fill-5" fill="#EB2567" points="114 0 114 10 120 5.00050135"></polygon>
+                </g>
+                <g id="Page-1-Copy-6" transform="translate(571.000000, 351.000000) rotate(-270.000000) translate(-571.000000, -351.000000) translate(511.000000, 346.000000)">
+                    <path d="M31,5 L32,5" id="Stroke-1" stroke="#EB2567"></path>
+                    <path d="M0.370083092,5 L113.725975,5" id="Stroke-3" stroke="#1D80D8" stroke-dasharray="1.984,2.977"></path>
+                    <path d="M115,5 L116,5" id="Stroke-4" stroke="#EB2567"></path>
+                    <polygon id="Fill-5" fill="#1D80D8" points="114 0 114 10 120 5.00050135"></polygon>
+                </g>
+                <g id="market-copy-8" transform="translate(260.000000, 0.000000)" fill="#EB2567">
+                    <path d="M190,95 C190,147.467272 147.467272,190 95,190 C42.5327276,190 0,147.467272 0,95 C0,42.5327276 42.5327276,0 95,0 C147.467272,0 190,42.5327276 190,95" id="Fill-1" fill-opacity="0.2"></path>
+                    <path d="M159.155844,95 C159.155844,130.432766 130.431987,159.155844 95,159.155844 C59.5680129,159.155844 30.8441558,130.432766 30.8441558,95 C30.8441558,59.5680129 59.5680129,30.8441558 95,30.8441558 C130.431987,30.8441558 159.155844,59.5680129 159.155844,95" id="Fill-4"></path>
+                </g>
+                <g id="market-copy-9" transform="translate(476.000000, 192.000000)" fill="#1D80D8">
+                    <path d="M190,95 C190,147.467272 147.467272,190 95,190 C42.5327276,190 0,147.467272 0,95 C0,42.5327276 42.5327276,0 95,0 C147.467272,0 190,42.5327276 190,95" id="Fill-1" fill-opacity="0.2"></path>
+                    <path d="M159.155844,95 C159.155844,130.432766 130.431987,159.155844 95,159.155844 C59.5680129,159.155844 30.8441558,130.432766 30.8441558,95 C30.8441558,59.5680129 59.5680129,30.8441558 95,30.8441558 C130.431987,30.8441558 159.155844,59.5680129 159.155844,95" id="Fill-4"></path>
+                </g>
+                <text id="UNQUANTIFIABLE" filter="url(#filter-2)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="37.498" y="196">UNQUANTIFIABLE</tspan>
+                </text>
+                <text id="Cross-platform-opera" filter="url(#filter-4)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="12.497" y="338">Cross platform operability</tspan>
+                    <tspan x="48.652" y="355">is a press need</tspan>
+                </text>
+                <text id="UNMONETIZABLE" filter="url(#filter-6)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="299.15" y="101">UNMONETIZABLE</tspan>
+                </text>
+                <text id="No-advert-,-No-money" filter="url(#filter-8)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="287.296" y="243">No advert , No money</tspan>
+                </text>
+                <text id="NO-STANDARDIZATION" filter="url(#filter-10)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="561.515" y="281">NO</tspan>
+                    <tspan x="510.009" y="298">STANDARDIZATION</tspan>
+                </text>
+                <text id="No-industrial-standa" filter="url(#filter-12)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="499.887" y="435">No industrial standard </tspan>
+                    <tspan x="538.296" y="452">applicable</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

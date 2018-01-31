@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="650px" height="372px" viewBox="0 0 650 372" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-652.000000, -2135.000000)">
+            <g id="our-solution" transform="translate(136.000000, 1980.000000)">
+                <g id="Group-5" transform="translate(516.000000, 155.000000)">
+                    <g id="Page-1" transform="translate(128.000000, 72.000000)">
+                        <path d="M31,5 L32,5" id="Stroke-1" stroke="#EB2567"></path>
+                        <path d="M0.370083092,5 L113.725975,5" id="Stroke-3" stroke="#FFC000" stroke-dasharray="1.984,2.977"></path>
+                        <path d="M115,5 L116,5" id="Stroke-4" stroke="#EB2567"></path>
+                        <polygon id="Fill-5" fill="#FFC000" points="114 0 114 10 120 5.00050135"></polygon>
+                    </g>
+                    <g id="Page-1-Copy-2" transform="translate(376.000000, 72.000000)">
+                        <path d="M31,5 L32,5" id="Stroke-1" stroke="#EB2567"></path>
+                        <path d="M0.370083092,5 L113.725975,5" id="Stroke-3" stroke="#FFC000" stroke-dasharray="1.984,2.977"></path>
+                        <path d="M115,5 L116,5" id="Stroke-4" stroke="#EB2567"></path>
+                        <polygon id="Fill-5" fill="#FFC000" points="114 0 114 10 120 5.00050135"></polygon>
+                    </g>
+                    <g id="Page-1-Copy" transform="translate(128.000000, 292.000000)">
+                        <path d="M31,5 L32,5" id="Stroke-1" stroke="#EB2567"></path>
+                        <path d="M0.370083092,5 L113.725975,5" id="Stroke-3" stroke="#FFC000" stroke-dasharray="1.984,2.977"></path>
+                        <path d="M115,5 L116,5" id="Stroke-4" stroke="#EB2567"></path>
+                        <polygon id="Fill-5" fill="#FFC000" points="114 0 114 10 120 5.00050135"></polygon>
+                    </g>
+                    <g id="Page-1" transform="translate(77.000000, 173.000000) rotate(90.000000) translate(-77.000000, -173.000000) translate(32.000000, 168.000000)">
+                        <path d="M1,5 L2,5" id="Stroke-1" stroke="#EB2567"></path>
+                        <path d="M0.498498079,5 L83.7259752,5" id="Stroke-3" stroke="#FFC000" stroke-dasharray="1.984,2.977"></path>
+                        <path d="M85,5 L86,5" id="Stroke-4" stroke="#EB2567"></path>
+                        <polygon id="Fill-5" fill="#FFC000" points="84 0 84 10 90 5.00050135"></polygon>
+                    </g>
+                    <g id="Page-1-Copy-3" transform="translate(324.000000, 173.000000) rotate(90.000000) translate(-324.000000, -173.000000) translate(279.000000, 168.000000)">
+                        <path d="M1,5 L2,5" id="Stroke-1" stroke="#EB2567"></path>
+                        <path d="M0.498498079,5 L83.7259752,5" id="Stroke-3" stroke="#FFC000" stroke-dasharray="1.984,2.977"></path>
+                        <path d="M85,5 L86,5" id="Stroke-4" stroke="#EB2567"></path>
+                        <polygon id="Fill-5" fill="#FFC000" points="84 0 84 10 90 5.00050135"></polygon>
+                    </g>
+                    <g id="market" fill="#FFC000">
+                        <path d="M154,77 C154,119.526105 119.526105,154 77,154 C34.473895,154 0,119.526105 0,77 C0,34.473895 34.473895,0 77,0 C119.526105,0 154,34.473895 154,77" id="Fill-1" fill-opacity="0.2"></path>
+                        <path d="M129,77 C129,105.71919 105.718558,129 77,129 C48.2814421,129 25,105.71919 25,77 C25,48.2814421 48.2814421,25 77,25 C105.718558,25 129,48.2814421 129,77" id="Fill-4"></path>
+                    </g>
+                    <g id="market-copy-2" transform="translate(0.000000, 218.000000)" fill="#FFC000">
+                        <path d="M154,77 C154,119.526105 119.526105,154 77,154 C34.473895,154 0,119.526105 0,77 C0,34.473895 34.473895,0 77,0 C119.526105,0 154,34.473895 154,77" id="Fill-1" fill-opacity="0.2"></path>
+                        <path d="M129,77 C129,105.71919 105.718558,129 77,129 C48.2814421,129 25,105.71919 25,77 C25,48.2814421 48.2814421,25 77,25 C105.718558,25 129,48.2814421 129,77" id="Fill-4"></path>
+                    </g>
+                    <g id="market-copy-3" transform="translate(248.000000, 218.000000)" fill="#FFC000">
+                        <path d="M154,77 C154,119.526105 119.526105,154 77,154 C34.473895,154 0,119.526105 0,77 C0,34.473895 34.473895,0 77,0 C119.526105,0 154,34.473895 154,77" id="Fill-1" fill-opacity="0.2"></path>
+                        <path d="M129,77 C129,105.71919 105.718558,129 77,129 C48.2814421,129 25,105.71919 25,77 C25,48.2814421 48.2814421,25 77,25 C105.718558,25 129,48.2814421 129,77" id="Fill-4"></path>
+                    </g>
+                    <g id="market-copy" transform="translate(248.000000, 0.000000)" fill="#EB2567">
+                        <path d="M154,77 C154,119.526105 119.526105,154 77,154 C34.473895,154 0,119.526105 0,77 C0,34.473895 34.473895,0 77,0 C119.526105,0 154,34.473895 154,77" id="Fill-1" fill-opacity="0.2"></path>
+                        <path d="M129,77 C129,105.71919 105.718558,129 77,129 C48.2814421,129 25,105.71919 25,77 C25,48.2814421 48.2814421,25 77,25 C105.718558,25 129,48.2814421 129,77" id="Fill-4"></path>
+                    </g>
+                    <g id="market-copy-4" transform="translate(496.000000, 0.000000)" fill="#FFC000">
+                        <path d="M154,77 C154,119.526105 119.526105,154 77,154 C34.473895,154 0,119.526105 0,77 C0,34.473895 34.473895,0 77,0 C119.526105,0 154,34.473895 154,77" id="Fill-1" fill-opacity="0.2"></path>
+                        <path d="M129,77 C129,105.71919 105.718558,129 77,129 C48.2814421,129 25,105.71919 25,77 C25,48.2814421 48.2814421,25 77,25 C105.718558,25 129,48.2814421 129,77" id="Fill-4"></path>
+                    </g>
+                    <text id="INFLUENCER" filter="url(#filter-2)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="35.276" y="83">INFLUENCER</tspan>
+                    </text>
+                    <text id="INFLUENCE-INDEX" filter="url(#filter-4)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="40.354" y="294">INFLUENCE</tspan>
+                        <tspan x="57.819" y="311">INDEX</tspan>
+                    </text>
+                    <text id="INC-EXCHANGE" filter="url(#filter-6)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="314.548" y="292">INC</tspan>
+                        <tspan x="290.265" y="309">EXCHANGE</tspan>
+                    </text>
+                    <text id="TOKENIZATION" filter="url(#filter-8)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="277.134" y="83">TOKENIZATION</tspan>
+                    </text>
+                    <text id="TOKEN-BASED-APPLICAT" filter="url(#filter-10)" font-family="DIN-Bold, DIN" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="551.268" y="63">TOKEN</tspan>
+                        <tspan x="551.443" y="80">BASED</tspan>
+                        <tspan x="526.012" y="97">APPLICATIONS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="514px" height="200px" viewBox="0 0 514 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Use of funds</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网更新" transform="translate(-720.000000, -10536.000000)">
+            <g id="inc-token" transform="translate(103.000000, 10332.000000)">
+                <g id="Use-of-funds" transform="translate(617.000000, 204.000000)">
+                    <g id="Page-1">
+                        <polygon id="Stroke-4" stroke="#FFFFFF" points="99.9997076 100 99.9997076 100 100.000292 100"></polygon>
+                        <path d="M159.659476,80.5017189 L194.568246,69.0924706 C191.310936,59.0030588 186.504503,49.6189412 180.42848,41.2212941 C174.292807,32.7412941 166.865322,25.2701176 158.434912,19.0983529 C150.086374,12.9865882 140.75655,8.15188235 130.72731,4.876 C121.049532,1.71541176 110.724971,0.00011764706 100.000409,0.00011764706 L100.000409,38 C116.12323,38.0002297 132.246062,44.1204704 144.547499,56.360722 C151.615047,63.3929274 156.652372,71.6802988 159.659476,80.5017189 Z" id="Combined-Shape" fill="#FFC000"></path>
+                        <path d="M119.482821,160.314113 L130.727135,195.124176 C140.756374,191.848294 150.086784,187.013588 158.434737,180.901824 C166.865146,174.730059 174.292632,167.258882 180.428304,158.778882 C186.504327,150.380647 191.311345,140.996529 194.56807,130.907706 C197.710175,121.173588 199.415439,110.787706 199.415439,100.000059 C199.415439,89.2124118 197.710175,78.8265294 194.56807,69.0924118 L159.659441,80.5016144 C167.120628,102.389081 162.083314,127.564288 144.547499,145.012412 C137.267064,152.256635 128.648109,157.357202 119.482821,160.314113 Z" id="Combined-Shape" fill="#EB2567"></path>
+                        <path d="M119.482892,160.31409 L130.727193,195.124118 C121.049415,198.284706 110.724854,200 100.000292,200 C89.2751462,200 78.9505848,198.284706 69.272807,195.124118 C59.2435673,191.848235 49.9137427,187.013529 41.5652047,180.901765 L62.9011091,151.362794 C79.4799414,163.410598 100.636453,166.394364 119.482892,160.31409 Z" id="Combined-Shape" fill="#A93AFF"></path>
+                        <path d="M100.000292,38 L100.000292,5.88235289e-05 C89.2751462,5.88235289e-05 78.9505848,1.71535294 69.272807,4.87594118 C59.2435673,8.15182353 49.9137427,12.9865294 41.5652047,19.0982941 C33.1347953,25.2700588 25.7073099,32.7412353 19.5716374,41.2212353 C13.495614,49.6188824 8.68859649,59.0035882 5.43245614,69.0924118 C2.28976608,78.8265294 0.584502924,89.2124118 0.584502924,100.000059 L37.0037544,100.000059 C37.1767213,84.1868142 43.3261375,68.4262758 55.4520031,56.360722 C67.7535395,44.1200406 83.8769057,37.9997999 100.000292,38 Z" id="Combined-Shape" fill="#4F29FE"></path>
+                        <path d="M62.9011091,151.362794 L41.5652047,180.901765 C33.1347953,174.73 25.7073099,167.258824 19.5716374,158.778824 C13.495614,150.380588 8.68859649,140.996471 5.43245614,130.907647 C2.29035088,121.173529 0.584502924,110.787647 0.584502924,100 L37.0037551,100 C36.8257669,116.270922 42.9751829,132.597649 55.4520031,145.012412 C57.8042102,147.352983 60.2961518,149.469777 62.9011091,151.362794 Z" id="Combined-Shape" fill="#4986FF"></path>
+                        <text id="Use-of-funds" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                            <tspan x="57.534" y="104">Use of funds</tspan>
+                        </text>
+                    </g>
+                    <text id="Business-cooperation" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="312" y="54">Business cooperation : 25%</tspan>
+                    </text>
+                    <text id="Technology-developme" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="312" y="80">Technology development : 15%</tspan>
+                    </text>
+                    <text id="Marketing-:-15%" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="312" y="106">Marketing : 15%</tspan>
+                    </text>
+                    <text id="Investment-:-25%" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="312" y="132">Investment : 25%</tspan>
+                    </text>
+                    <text id="Operating-costs-:-20" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="26" fill="#FFFFFF">
+                        <tspan x="312" y="155">Operating costs : 20%</tspan>
+                    </text>
+                    <rect id="Rectangle-9-Copy-5" fill="#4F29FE" x="270" y="41" width="16" height="16"></rect>
+                    <rect id="Rectangle-9-Copy-6" fill="#4986FF" x="270" y="67" width="16" height="16"></rect>
+                    <rect id="Rectangle-9-Copy-7" fill="#A93AFF" x="270" y="93" width="16" height="16"></rect>
+                    <rect id="Rectangle-9-Copy-8" fill="#EB2567" x="270" y="119" width="16" height="16"></rect>
+                    <rect id="Rectangle-9-Copy-9" fill="#FFC000" x="270" y="145" width="16" height="16"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
